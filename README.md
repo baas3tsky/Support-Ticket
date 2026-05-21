@@ -92,7 +92,7 @@ yarn dev
 pnpm dev
 ```
 
-Open [https://support-ticket-ruthvictor.vercel.app](https://support-ticket-ruthvictor.vercel.app) with your browser to see the result.
+Open [https://support-ticket-ruthvictor.vercel.app](https://support-ticket-3t.vercel.app) with your browser to see the result.
 
 ## 📁 Project Structure
 
